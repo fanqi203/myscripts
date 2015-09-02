@@ -1,1 +1,9 @@
 my scripts 
+
+.
+├── readme
+├── shrink.sh
+└── vx
+    ├── create_ATCF.sh
+    ├── plot_tracks.sh
+    └── run_met_tc.sh
